@@ -35,3 +35,4 @@ b'deff1952d59f883ece260e8683fed21ab0ad9a53323eca4f'
 $ python main.py
 ```
 
+Créditos: <a href="https://testdriven.io/blog/fastapi-jwt-auth/">Abdulazeez Abdulazeez Adeshina</a>
